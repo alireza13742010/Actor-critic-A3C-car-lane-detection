@@ -31,5 +31,5 @@ The A3C architecture enhances lane detection by leveraging parallel agents for d
 The provided model captures the information from the outputs of the SUMO environments. The features in this phase compiled of the informations on the traffic lights, number of vehicles, vehicles speed and etc. The proposed methodolgy can determines the best lanes ad tarffic light setting to avoid coallision and provide proper flow of traffic.The architectures of the model for the forecasting of the lane and traffic flow si a combination of convolutional and Gated Recuuremt Unit (GRU) or the combination of convolutional with attention layers.
 
 # -Model Evaluations 
-
+![download](https://github.com/user-attachments/assets/209b83ac-943c-4d72-bb63-cdee332f34eb)
 
