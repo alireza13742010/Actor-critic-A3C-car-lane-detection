@@ -26,3 +26,6 @@ Output Layer:
 Lane Boundary Detection: Outputs detected lane coordinates or segmentation masks, along with confidence scores to aid decision-making.
 Summary
 The A3C architecture enhances lane detection by leveraging parallel agents for diverse exploration and efficient learning, making it a robust solution for navigating complex driving environments. Ideal for integration into autonomous driving systems, this model can adapt to various scenarios while improving accuracy in lane detection.
+
+# -Model Descriptions
+The provided model captures the information from the outputs of the SUMO environments. The features in this phase compiled of the informations on the traffic lights, number of vehicles, vehicles speed and etc. The proposed methodolgy can determines the best lanes ad tarffic light setting to avoid coallision and provide proper flow of traffic.
